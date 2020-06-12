@@ -11,7 +11,7 @@ import Teachers from "./Teachers";
 import Courses from "./Courses";
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename="/course-directory">
     <div className="container">
       <Header />
 
