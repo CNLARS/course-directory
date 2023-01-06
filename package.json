@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://cnlars.github.io/course-directory",
   "devDependencies": {
-    "react-scripts": "1.0.6"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "gh-pages": "^3.0.0",
